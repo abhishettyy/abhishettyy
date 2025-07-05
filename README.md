@@ -1,4 +1,4 @@
-# abhishshetty
+
 # 💫 About Me:
 👋 Hey, I'm Abhish<br><br>🎓 Student at **Ramaiah Institute of Technology**  <br>🌐 Passionate about **Web Development**  <br>🎯 Currently focused on building strong skills in **Frontend Development**<br><br><br> What I’m About:<br>I'm a curious learner who’s deeply into the field of **development**, especially the frontend side of things.  <br>I love understanding how web pages are structured, styled, and brought to life using HTML, CSS, Bootstrap, and JavaScript.
 
@@ -13,11 +13,13 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=abhishettyy&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishettyy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=abhishettyy&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
