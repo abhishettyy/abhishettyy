@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-👋 Hey, I'm Abhish<br><br>🎓 Student at **Ramaiah Institute of Technology**  <br>-> Passionate about **Web Development**  <br>->  Currently focused on building strong skills in **Frontend Development**<br><br><br> What I’m About:<br>I'm a curious learner who’s deeply into the field of **development**, especially the frontend side of things.  <br>I love understanding how web pages are structured, styled, and brought to life using HTML, CSS, Bootstrap, and JavaScript.
+👋 Hey, I'm Abhish<br><br>🎓 Student at **Ramaiah Institute of Technology**  <br>-> Passionate about **Technology**  <br>->  Currently focused on building strong skills in **Frontend Development**<br><br><br> What I’m About:<br>I'm a curious learner who’s deeply into the field of **development**, especially the frontend side of things.  <br>I love understanding how web pages are structured, styled, and brought to life using HTML, CSS, Bootstrap, and JavaScript.
 
 
 ## 🌐 Socials:
