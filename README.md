@@ -1,6 +1,6 @@
 
 #  About Me:
-👋 Hey, I'm Abhish<br><br> Pursuing B.E in Information Science and Engineering at **Ramaiah Institute of Technology**  <br>-> Passionate about **Technology** <br>->Coding Enthusiasist <br>->  Currently focused on building strong skills in **Web Development**<br><br><br> What I’m About:<br>I'm a curious learner who’s deeply into the field of **development**. 
+👋 Hey, I'm Abhish<br><br> Pursuing B.E in Information Science and Engineering at **Ramaiah Institute of Technology**  <br>-> Passionate about **Technology** <br>->Coding Enthusiast🧑‍💻 <br>->  Currently focused on building strong skills in **Web Development**<br><br><br> What I’m About:<br>I'm a curious learner who’s deeply into the field of **development**. 
 
 ##  Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhish-shetty-10b39232b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhishashokshetty@gmail.com) 
