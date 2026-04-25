@@ -26,6 +26,8 @@ Currently learning: JavaScript, Node.js, Express, React and MongoDB. Always open
 - Building portfolio projects and documenting progress with READMEs and demos.
 
 If you'd like to follow along, check the `web-dev-projects` and `College_Stack` repos for recent updates.
+![GitHub GIF](githubgif.gif)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=abhishettyy&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
