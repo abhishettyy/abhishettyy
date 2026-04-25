@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm **Abhish** — an Aspiring Web Developer based in **Bangalore**. 🚀
+I'm **Abhish** — Full Stack Developer based in **Bangalore**. 🚀
 
 Role: Learner & builder — currently focused on JavaScript and the MERN stack.
 
