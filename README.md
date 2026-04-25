@@ -11,7 +11,7 @@ Role: Learner & builder — currently focused on JavaScript and the MERN stack.
 - 💬 Bio: Aspiring Web Developer | Passionate about Tech | Learning JS and MERN | Building projects
 - ⚙️ Status: Actively building web projects and improving full‑stack skills (MERN). I enjoy hands‑on practice — shipping small apps and learning by doing.
 
-Currently learning: JavaScript, Node.js, Express, React and MongoDB. Always open to feedback and collaboration. 🤝
+Currently learning: MERN stack. Always open to feedback and collaboration. 🤝
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/abhish-shetty-10b39232b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhishashokshetty@gmail.com) 
 ## Skills & Technologies
