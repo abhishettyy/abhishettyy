@@ -16,7 +16,7 @@ Currently learning: JavaScript, Node.js, Express, React and MongoDB. Always open
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/abhish-shetty-10b39232b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhishashokshetty@gmail.com) 
 ## Skills & Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,react,express,css,html,c,git,github,vercel,nextjs,bootstrap,mongodb,mysql,postgresql,githubactions,cpp,java,bash,figma,linux,ubuntu,tailwindcss,vscode&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,react,express,css,html,typescript,c,git,github,vercel,nextjs,bootstrap,mongodb,mysql,postgresql,githubactions,cpp,java,bash,figma,linux,ubuntu,tailwindcss,vscode&perline=8)](https://skillicons.dev)
 
 
 
