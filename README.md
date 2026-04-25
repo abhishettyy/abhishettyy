@@ -25,7 +25,8 @@ Currently learning: JavaScript, Node.js, Express, React and MongoDB. Always open
 - Improving deployment and CI/CD skills (Vercel, Netlify, GitHub Actions).
 - Building portfolio projects and documenting progress with READMEs and demos.
 
-If you'd like to follow along, check the `web-dev-projects` and `College_Stack` repos for recent updates.
+
+
 ![GitHub GIF](githubgif.gif)
 
 
