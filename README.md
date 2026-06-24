@@ -2,13 +2,13 @@
 
 I'm **Abhish** — Full Stack Developer based in **Bangalore**. 🚀
 
-Role: Learner & builder — currently focused on JavaScript and the MERN stack.
+Role: Learner & builder — currently focused on MERN stack.
 
 ## About Me
 
 - 👨‍💻 Name: Abhish
 - 📍 Location: Bangalore
-- 💬 Bio: Aspiring Web Developer | Passionate about Tech | Learning JS and MERN | Building projects
+- 💬 Bio: Aspiring Web Developer | Passionate about Tech |  MERN Stack| Building projects
 - ⚙️ Status: Actively building web projects and improving full‑stack skills (MERN). I enjoy hands‑on practice — shipping small apps and learning by doing.
 
 Currently learning: MERN stack. Always open to feedback and collaboration. 🤝
